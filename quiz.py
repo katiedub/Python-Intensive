@@ -12,10 +12,10 @@ a1 = int(input("\n What is 10/2?"))
 # after each question, tell the user whether or not their answer was correct
 # if/ else to test whether it was correct, print
 if a1 == 5:
-    print("Nice job!")
+    print("\t Nice job!")
     score = score + 1
 else:
-    print("Yikes, tough start")
+    print("\t Yikes, tough start")
 
 # question 2
 a2 = int(input("\n What is 2+2?"))

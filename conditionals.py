@@ -31,3 +31,22 @@ else:
 
 
 print("horse" == "horse")
+
+# logical operators
+# way to express multiple conditions at once
+# AND, OR, NOT
+fav_color = input("What is your favorite color?")
+
+if age > 21 or fav_color == "pink":
+    print("let's be best friends.")
+else:
+    print(fav_color, "isn't a bad choice")
+
+
+
+
+
+
+
+
+
